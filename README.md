@@ -1,4 +1,4 @@
-# Solve-for-tomorow-Sargasum-tracker-bz
+# Water quality Tracker
 # Coastline Sargassum & Water Quality Tracker
 
 A low-cost water quality monitoring system designed to help coastal communities monitor changes in water conditions associated with sargassum decomposition.
